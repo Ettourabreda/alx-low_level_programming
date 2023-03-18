@@ -1,8 +1,7 @@
-#!/bin/bash
 #include  <stdio.h>
 /**
  *main - entry poit
- *return: 0 (always success)
+ *return: 0 (always succes)
  */
 int main(void)
 {
