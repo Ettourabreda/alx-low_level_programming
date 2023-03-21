@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* main - Prints the last digit of a randomly generated  number
+* main - Prints the last digit of a randomly generated number
 *        and wether it is greater than 5, less than 6, or 0.
 *
 * Return: Always 0,
@@ -17,7 +17,7 @@ int main(void)
 	
 	if ((n % 10) > 5)
 	{
-		printf("Last digit of  %d is %d and  is less than 6 and not 0\n",
+		printf("Last digit of %d is %d and is less than 5\n",
 				n, n % 10);
 	}
 	else if ((n % 10) < 6 && (n % 10)  != 0)
