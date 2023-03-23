@@ -6,9 +6,9 @@
  *
  * Return: The value of the last digit.
  */
-int print_last_digit(int)
+int print_last_digit(int i)
 {
-	for (i <= 0 || i >= 0)
+	for (i <= 0 || i > 0)
 	{
 		return (i %10);
 	}
