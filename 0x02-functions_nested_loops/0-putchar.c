@@ -5,6 +5,7 @@
  * Return: 0 Always (Success)
  */
 int main(void)
+	int _putchar;
 {
 	putchar("_putchar,\n");
 	return (0);
