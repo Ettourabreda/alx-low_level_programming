@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _rev - prints a string, in reverse, followed by a new line.
+ * int_rev - prints a string, in reverse, followed by a new line.
  *
  * @s: string
  * Return: Always 0 (Success)
